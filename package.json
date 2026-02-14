@@ -1,0 +1,9 @@
+{
+  "name": "abacia-agents",
+  "version": "1.0.0",
+  "description": "All 80 ABACIA agents - We Are All ABA",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
