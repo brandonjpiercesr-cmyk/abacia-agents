@@ -1,1 +1,1 @@
-module.exports={id:"ERICA",fullName:"Explain Review Inform Clarify Audit",department:"DOCUMENTATION",jobDescription:"ERICA documents and audits. Never show agent names."};
+module.exports={id:"ERICA",fullName:"Explanation Review and Insight Clarity Assurance",department:"QUALITY",jobDescription:"3-way explanation generation. Never show agent names to users."};
