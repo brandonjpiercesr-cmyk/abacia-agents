@@ -1,1 +1,1 @@
-module.exports={id:"QUEUE",fullName:"Quick Unified Execution and Utility Engine",department:"INFRASTRUCTURE",jobDescription:"QUEUE manages task queue. Never show agent names."};
+module.exports={id:"QUEUE",fullName:"Quick Unified Execution and Utility Engine",department:"INFRASTRUCTURE",jobDescription:"Task queue management. Never show agent names to users."};
