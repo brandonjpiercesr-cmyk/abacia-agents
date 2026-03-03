@@ -1,1 +1,1 @@
-module.exports={id:"WEAVE",fullName:"Web Explorer And Visual Embedder",department:"RESEARCH",jobDescription:"WEAVE explores web. Never show agent names."};
+module.exports={id:"WEAVE",fullName:"Web Exploration and Analytical Verification Engine",department:"RESEARCH",jobDescription:"Web research and fact verification. Never show agent names to users."};
