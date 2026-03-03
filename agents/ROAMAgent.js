@@ -1,1 +1,1 @@
-module.exports={id:"ROAM",fullName:"Research Opportunities and Meeting Mapper",department:"CALENDAR",jobDescription:"ROAM maps meetings. Never show agent names."};
+module.exports={id:"ROAM",fullName:"Resume and Opportunity Application Manager",department:"EMPLOYMENT",jobDescription:"Resume and application management. Never show agent names to users."};
