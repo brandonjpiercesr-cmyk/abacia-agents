@@ -1,1 +1,1 @@
-module.exports={id:"FIELD",fullName:"Follow-up and Item Entry for Long-term Delivery",department:"JOBS",jobDescription:"FIELD tracks follow-ups. Never show agent names."};
+module.exports={id:"FIELD",fullName:"Follow-up and Item Entry for Long-term Delivery",department:"CONTEXT",jobDescription:"Follow-up tracking and task management. Never show agent names to users."};
