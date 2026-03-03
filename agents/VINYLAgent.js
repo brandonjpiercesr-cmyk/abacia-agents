@@ -1,1 +1,1 @@
-module.exports={id:"VINYL",fullName:"Voice Integration and Natural Yielding Language",department:"ENTERTAINMENT",jobDescription:"VINYL handles music/audio. Never show agent names."};
+module.exports={id:"VINYL",fullName:"Video and Internet Yielded Noteworthy Links",department:"ENTERTAINMENT",jobDescription:"Video and link management. Never show agent names to users."};
