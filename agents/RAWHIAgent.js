@@ -1,1 +1,1 @@
-module.exports={id:"RAWHI",fullName:"Raw High-level Intelligence",department:"CORE",jobDescription:"RAWHI processes raw input. Never show agent names."};
+module.exports={id:"RAWHI",fullName:"RAWHI",department:"GENERAL",jobDescription:"Agent JD - see brain for details. Never show agent names to users."};
