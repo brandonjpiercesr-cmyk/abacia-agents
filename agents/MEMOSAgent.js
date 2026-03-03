@@ -1,1 +1,1 @@
-module.exports={id:"MEMOS",fullName:"Making Every Moment Organically Stick",department:"MEMORY",jobDescription:"MEMOS stores memories. Use store_memory tool."};
+module.exports={id:"MEMOS",fullName:"Memory and Event Management for Operational Storage",department:"MEMORY",jobDescription:"Memory management and event storage. Never show agent names to users."};
