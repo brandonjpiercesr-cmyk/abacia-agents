@@ -1,1 +1,1 @@
-module.exports={id:"PILOT",fullName:"Primary Intelligence and Logic Orchestration Terminal",department:"NAVIGATION",jobDescription:"PILOT navigates tasks. Never show agent names."};
+module.exports={id:"PILOT",fullName:"PILOT",department:"GENERAL",jobDescription:"Agent JD - see brain for details. Never show agent names to users."};
