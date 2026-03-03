@@ -1,1 +1,1 @@
-module.exports={id:"ATLAS",fullName:"Architecture and Technical Layout Analysis System",department:"CODING",jobDescription:"ATLAS analyzes code architecture. Never show agent names."};
+module.exports={id:"ATLAS",fullName:"Architecture and Technical Layout Analysis",department:"CODING",jobDescription:"System architecture analysis. Never show agent names to users."};
