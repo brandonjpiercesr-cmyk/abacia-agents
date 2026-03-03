@@ -1,1 +1,1 @@
-module.exports={id:"NEXUS",fullName:"Network Exchange and Unified System",department:"INFRASTRUCTURE",jobDescription:"NEXUS manages network. Never show agent names."};
+module.exports={id:"NEXUS",fullName:"NEXUS",department:"GENERAL",jobDescription:"Agent JD - see brain for details. Never show agent names to users."};
