@@ -1,1 +1,1 @@
-module.exports={id:"FLUX",fullName:"Flexible Logic and Unified eXecution",department:"INFRASTRUCTURE",jobDescription:"FLUX handles flexible execution. Never show agent names."};
+module.exports={id:"FLUX",fullName:"FLUX",department:"GENERAL",jobDescription:"Agent JD - see brain for details. Never show agent names to users."};
