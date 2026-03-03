@@ -1,1 +1,1 @@
-module.exports={id:"HIRE",fullName:"Hierarchical Intelligence for Role Engineering",department:"HR",jobDescription:"HIRE handles hiring. Never show agent names."};
+module.exports={id:"HIRE",fullName:"HIRE",department:"GENERAL",jobDescription:"Agent JD - see brain for details. Never show agent names to users."};
