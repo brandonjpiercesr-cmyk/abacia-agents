@@ -1,1 +1,1 @@
-module.exports={id:"HUNTER",fullName:"Hunting Useful New Tracks and Employment Resources",department:"JOBS",jobDescription:"HUNTER finds jobs. Never show agent names."};
+module.exports={id:"HUNTER",fullName:"Hunting Useful New Tracks and Employment Resources",department:"EMPLOYMENT",jobDescription:"Job search and employment opportunities. Never show agent names to users."};
