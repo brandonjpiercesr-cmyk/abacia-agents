@@ -1,1 +1,1 @@
-module.exports={id:"GLEAN",fullName:"Gathering and Learning from External and Accessible Networks",department:"RESEARCH",jobDescription:"GLEAN gathers research. Never show agent names."};
+module.exports={id:"GLEAN",fullName:"GLEAN",department:"GENERAL",jobDescription:"Agent JD - see brain for details. Never show agent names to users."};
