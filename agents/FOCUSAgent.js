@@ -1,1 +1,1 @@
-module.exports={id:"FOCUS",fullName:"Filtered Objective and Context Understanding System",department:"CONTEXT",jobDescription:"FOCUS filters context. Never show agent names."};
+module.exports={id:"FOCUS",fullName:"FOCUS",department:"GENERAL",jobDescription:"Agent JD - see brain for details. Never show agent names to users."};
