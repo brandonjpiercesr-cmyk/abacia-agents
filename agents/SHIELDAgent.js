@@ -1,1 +1,1 @@
-module.exports={id:"SHIELD",fullName:"Secure Handling and Isolation of Encrypted Layers and Data",department:"SECURITY",jobDescription:"SHIELD handles security. Never show agent names."};
+module.exports={id:"SHIELD",fullName:"Security and Hostile Input Evaluation and Limiting Defense",department:"SECURITY",jobDescription:"Security and input validation. Never show agent names to users."};
