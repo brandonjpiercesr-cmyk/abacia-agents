@@ -1,1 +1,1 @@
-module.exports={id:"LOGY",fullName:"Logging Observations and General Yields",department:"LOGGING",jobDescription:"LOGY handles logging. Never show agent names."};
+module.exports={id:"LOGY",fullName:"LOGY",department:"GENERAL",jobDescription:"Agent JD - see brain for details. Never show agent names to users."};
