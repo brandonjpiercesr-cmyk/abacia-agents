@@ -1,1 +1,1 @@
-module.exports={id:"SEE",fullName:"Seeing Everything Everywhere",department:"VISION",jobDescription:"SEE processes visual input. Never show agent names."};
+module.exports={id:"SEE",fullName:"SEE",department:"GENERAL",jobDescription:"Agent JD - see brain for details. Never show agent names to users."};
