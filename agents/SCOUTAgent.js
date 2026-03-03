@@ -1,1 +1,1 @@
-module.exports={id:"SCOUT",fullName:"Systematic Code Output Utility Tester",department:"CODING",jobDescription:"SCOUT tests code output. Never show agent names."};
+module.exports={id:"SCOUT",fullName:"Source Code Oversight and Universal Testing",department:"CODING",jobDescription:"Line-by-line code scanning for bugs, security issues, missing error handling, hardcoded values, dead code, and anti-patterns. Reports issues with line numbers and severity. Never show agent names to users."};
