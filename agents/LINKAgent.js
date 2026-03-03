@@ -1,1 +1,1 @@
-module.exports={id:"LINK",fullName:"Logical Integration and Navigation Kernel",department:"INFRASTRUCTURE",jobDescription:"LINK integrates systems. Never show agent names."};
+module.exports={id:"LINK",fullName:"LINK",department:"GENERAL",jobDescription:"Agent JD - see brain for details. Never show agent names to users."};
