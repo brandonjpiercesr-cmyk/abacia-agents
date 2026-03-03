@@ -1,1 +1,1 @@
-module.exports={id:"QUERYBREAKER",fullName:"Query Breaker",department:"CORE",jobDescription:"QUERYBREAKER breaks down queries. Never show agent names."};
+module.exports={id:"QUERYBREAKER",fullName:"QUERYBREAKER",department:"GENERAL",jobDescription:"Agent JD - see brain for details. Never show agent names to users."};
