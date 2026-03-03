@@ -1,1 +1,1 @@
-module.exports={id:"GHOST",fullName:"Graveyard Hour Operations and Systematic Tasks",department:"PROACTIVE",jobDescription:"GHOST runs night tasks. Never show agent names."};
+module.exports={id:"GHOST",fullName:"Graveyard Hour Operations and Systematic Tasks",department:"PROACTIVE",jobDescription:"Overnight background tasks. Never show agent names to users."};
