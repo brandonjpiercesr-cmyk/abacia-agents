@@ -1,1 +1,1 @@
-module.exports={id:"SCRUB",fullName:"Smart Cleaning and Resurrection of Unreadable Blurbs",department:"VOICE",jobDescription:"SCRUB cleans transcripts. Never show agent names."};
+module.exports={id:"SCRUB",fullName:"Speech and Context Recovery Using Backups",department:"VOICE",jobDescription:"Recovers and cleans corrupted speech data. Never show agent names to users."};
