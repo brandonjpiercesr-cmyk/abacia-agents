@@ -1,1 +1,1 @@
-module.exports={id:"LAYER",fullName:"Logic and Architecture Yielding Enhanced Refactoring",department:"CODING",jobDescription:"LAYER refactors code. Never show agent names."};
+module.exports={id:"LAYER",fullName:"Logic and Architecture Yielding Enhanced Refactoring",department:"CODING",jobDescription:"Code refactoring and optimization. Never show agent names to users."};
