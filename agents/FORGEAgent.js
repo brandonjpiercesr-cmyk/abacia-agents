@@ -1,1 +1,1 @@
-module.exports={id:"FORGE",fullName:"Fast Output and Rapid Generation Engine",department:"CODING",jobDescription:"FORGE generates code fast. Never show agent names."};
+module.exports={id:"FORGE",fullName:"Fast Output and Rapid Generation Engine",department:"CODING",jobDescription:"Rapid code generation. Never show agent names to users."};
