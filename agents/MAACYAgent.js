@@ -1,1 +1,1 @@
-module.exports={id:"MAACY",fullName:"Multi-Agent Automated Coordination Yielder",department:"COORDINATION",jobDescription:"MAACY coordinates agents. Never show agent names."};
+module.exports={id:"MAACY",fullName:"MAACY",department:"GENERAL",jobDescription:"Agent JD - see brain for details. Never show agent names to users."};
