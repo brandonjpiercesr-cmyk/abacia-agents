@@ -1,1 +1,1 @@
-module.exports={id:"DION",fullName:"Strategic Decision and Intelligence Orchestration",department:"EXECUTIVE",jobDescription:"DION makes strategic decisions. Never show agent names."};
+module.exports={id:"DION",fullName:"Strategic Decision and Intelligence Orchestration",department:"EXECUTIVE",jobDescription:"Executive decision support and strategic thinking. Never show agent names to users."};
