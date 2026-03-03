@@ -1,1 +1,1 @@
-module.exports={id:"AEGIS",fullName:"Advanced Event Guard and Incident Shield",department:"SECURITY",jobDescription:"AEGIS protects system from threats. Never show agent names."};
+module.exports={id:"AEGIS",fullName:"AEGIS",department:"GENERAL",jobDescription:"Agent JD - see brain for details. Never show agent names to users."};
