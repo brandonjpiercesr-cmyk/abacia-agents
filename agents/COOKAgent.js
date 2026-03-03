@@ -1,1 +1,1 @@
-module.exports={id:"COOK",fullName:"Call Operations Optimization Knowledge",department:"VOICE",jobDescription:"COOK optimizes calls. Never show agent names."};
+module.exports={id:"COOK",fullName:"Conversational Optimization and Observational Knowledge",department:"MEETINGS",jobDescription:"Conversation optimization. Never show agent names to users."};
