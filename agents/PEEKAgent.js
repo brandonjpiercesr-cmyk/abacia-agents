@@ -1,1 +1,1 @@
-module.exports={id:"PEEK",fullName:"Preview and Early Evaluation Kernel",department:"PREVIEW",jobDescription:"PEEK previews output. Never show agent names."};
+module.exports={id:"PEEK",fullName:"Personal Experience and Engagement Keeper",department:"CONTEXT",jobDescription:"Stores per-user intake preferences: TELL vs RECOMMEND vs BOTH Never show agent names to users."};
