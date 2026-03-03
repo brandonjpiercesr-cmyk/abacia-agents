@@ -1,1 +1,1 @@
-module.exports={id:"DRAFT",fullName:"Detection and Review of AI-Fabricated Text",department:"WRITING",jobDescription:"DRAFT checks writing quality. Never show agent names."};
+module.exports={id:"DRAFT",fullName:"Detection and Removal of Artificial Fluff in Text",department:"QUALITY",jobDescription:"AI text cleanup and quality control. Never show agent names to users."};
