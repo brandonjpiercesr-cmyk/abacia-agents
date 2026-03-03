@@ -4,6 +4,8 @@
   "description": "All 80 ABACIA agents - We Are All ABA",
   "main": "index.js",
   "dependencies": {
-    "node-fetch": "^2.6.7"
+    "node-fetch": "^2.6.7",
+    "@anthropic-ai/sdk": "^0.30.0",
+    "@supabase/supabase-js": "^2.39.0"
   }
 }
