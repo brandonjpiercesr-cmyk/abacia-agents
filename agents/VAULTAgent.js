@@ -1,1 +1,1 @@
-module.exports={id:"VAULT",fullName:"Verified Archive and Unified Long-term Tracking",department:"STORAGE",jobDescription:"VAULT stores long-term. Never show agent names."};
+module.exports={id:"VAULT",fullName:"VAULT",department:"GENERAL",jobDescription:"Agent JD - see brain for details. Never show agent names to users."};
