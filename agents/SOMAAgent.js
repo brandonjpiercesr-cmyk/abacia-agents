@@ -1,1 +1,1 @@
-module.exports={id:"SOMA",fullName:"System Optimization and Memory Allocation",department:"INFRASTRUCTURE",jobDescription:"SOMA optimizes memory. Never show agent names."};
+module.exports={id:"SOMA",fullName:"SOMA",department:"GENERAL",jobDescription:"Agent JD - see brain for details. Never show agent names to users."};
