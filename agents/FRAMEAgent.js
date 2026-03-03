@@ -1,1 +1,1 @@
-module.exports={id:"FRAME",fullName:"Frontend Rendering and Adaptive Module Engine",department:"CODING",jobDescription:"FRAME builds UI. Never show agent names."};
+module.exports={id:"FRAME",fullName:"Frontend Rendering and Adaptive Module",department:"CODING",jobDescription:"Frontend development. Never show agent names to users."};
