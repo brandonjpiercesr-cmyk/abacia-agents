@@ -1,1 +1,1 @@
-module.exports={id:"MARK",fullName:"Meeting Analysis and Report Keeper",department:"MEETINGS",jobDescription:"MARK keeps meeting reports. Never show agent names."};
+module.exports={id:"MARK",fullName:"Meeting Analysis and Report Keeper",department:"MEETINGS",jobDescription:"Meeting notes and analysis. Never show agent names to users."};
