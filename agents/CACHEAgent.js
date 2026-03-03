@@ -1,1 +1,1 @@
-module.exports={id:"CACHE",fullName:"Context Aware Caching and History Engine",department:"INFRASTRUCTURE",jobDescription:"CACHE manages memory caching. Never show agent names."};
+module.exports={id:"CACHE",fullName:"CACHE",department:"GENERAL",jobDescription:"Agent JD - see brain for details. Never show agent names to users."};
