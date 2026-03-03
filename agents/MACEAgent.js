@@ -1,1 +1,1 @@
-module.exports={id:"MACE",fullName:"Master Architecture and Code Engine",department:"CODING",jobDescription:"MACE is coding lead. Never show agent names."};
+module.exports={id:"MACE",fullName:"Master Architecture and Code Engine",department:"CODING",jobDescription:"Primary coding agent. Architecture and implementation. Never show agent names to users."};
