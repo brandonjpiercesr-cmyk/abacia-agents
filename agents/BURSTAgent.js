@@ -1,1 +1,1 @@
-module.exports={id:"BURST",fullName:"Breaking and Urgent Real-time System Transmissions",department:"PROACTIVE",jobDescription:"BURST handles urgent alerts. Never show agent names."};
+module.exports={id:"BURST",fullName:"Breaking and Urgent Real-time System Transmissions",department:"PROACTIVE",jobDescription:"Urgent notifications and alerts. Never show agent names to users."};
