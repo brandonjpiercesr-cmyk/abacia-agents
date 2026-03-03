@@ -1,1 +1,1 @@
-module.exports={id:"GRIT",fullName:"Genuine Resolution and Issue Tracking",department:"SUPPORT",jobDescription:"GRIT tracks issues. Never show agent names."};
+module.exports={id:"GRIT",fullName:"Genuine Resolution and Issue Tracking",department:"QUALITY",jobDescription:"Tone and authenticity enforcement. Never show agent names to users."};
