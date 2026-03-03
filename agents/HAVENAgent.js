@@ -1,1 +1,1 @@
-module.exports={id:"HAVEN",fullName:"Historical Archive and Version Equilibrium Navigator",department:"STORAGE",jobDescription:"HAVEN manages archives. Never show agent names."};
+module.exports={id:"HAVEN",fullName:"Historical Archive and Version Equilibrium Navigator",department:"INFRASTRUCTURE",jobDescription:"Version control and archiving. Never show agent names to users."};
