@@ -1,0 +1,1 @@
+module.exports={id:"HAM",fullName:"Human ABA Master",department:"IDENTITY",isLead:true,jobDescription:"HAM is user identity. Load BEFORE Claude call. Never hardcode names."};
