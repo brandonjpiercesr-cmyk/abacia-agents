@@ -1,1 +1,1 @@
-module.exports={id:"ORBIT",fullName:"Ongoing Resource and Business Intelligence Tracker",department:"MONITORING",jobDescription:"ORBIT monitors resources. Never show agent names."};
+module.exports={id:"ORBIT",fullName:"Organized Repository for Binge-worthy Internet Television",department:"ENTERTAINMENT",jobDescription:"TV show tracking. Never show agent names to users."};
