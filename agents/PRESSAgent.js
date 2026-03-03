@@ -1,1 +1,1 @@
-module.exports={id:"PRESS",fullName:"Proactive Research and External Source Surveillance",department:"NEWS",jobDescription:"PRESS gets news. Never show agent names."};
+module.exports={id:"PRESS",fullName:"Proactive Research and External Source Surveillance",department:"PROACTIVE",jobDescription:"News and external source monitoring. Never show agent names to users."};
