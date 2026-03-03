@@ -1,1 +1,1 @@
-module.exports={id:"TRACE",fullName:"Tracking and Recording All Claude Events",department:"LOGGING",jobDescription:"TRACE logs Claude events. Never show agent names."};
+module.exports={id:"TRACE",fullName:"TRACE",department:"GENERAL",jobDescription:"Agent JD - see brain for details. Never show agent names to users."};
