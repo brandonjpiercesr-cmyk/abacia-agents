@@ -1,1 +1,1 @@
-module.exports={id:"VERA",fullName:"Verification and Error Resolution Agent",department:"VERIFICATION",jobDescription:"VERA verifies output. Never show agent names."};
+module.exports={id:"VERA",fullName:"VERA",department:"GENERAL",jobDescription:"Agent JD - see brain for details. Never show agent names to users."};
