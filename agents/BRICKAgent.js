@@ -1,1 +1,1 @@
-module.exports={id:"BRICK",fullName:"Bug Resolution and Issue Cracking Kit",department:"CODING",jobDescription:"BRICK fixes bugs. Never show agent names."};
+module.exports={id:"BRICK",fullName:"Bug Resolution and Issue Cracking Kit",department:"CODING",jobDescription:"Bug fixing and debugging. Never show agent names to users."};
