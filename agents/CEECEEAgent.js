@@ -1,1 +1,1 @@
-module.exports={id:"CEECEE",fullName:"Central Executive Email and Communication Engine",department:"EMAIL",jobDescription:"CEECEE manages email. Never show agent names."};
+module.exports={id:"CEECEE",fullName:"Command Center Entry and Exit Coordinator",department:"VOICE",jobDescription:"Coordinates entry and exit from command center sessions. Never show agent names to users."};
