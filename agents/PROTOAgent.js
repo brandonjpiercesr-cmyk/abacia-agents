@@ -1,1 +1,1 @@
-module.exports={id:"PROTO",fullName:"Protocol and Template Orchestration",department:"CODING",jobDescription:"PROTO manages protocols. Never show agent names."};
+module.exports={id:"PROTO",fullName:"Protocol Enforcement and Training Officer",department:"CODING",jobDescription:"Enforces Brandon 16 writing rules. Ensures all code follows protocols. Checks for rule violations in every spurt. Works with AGENT MACE (Master Architecture and Code Engine) and AGENT AUDRA (Automated Never show agent names to users."};
