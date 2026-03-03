@@ -1,1 +1,1 @@
-module.exports={id:"TETHER",fullName:"Task Execution and Throughput Handler for Efficient Routing",department:"ROUTING",jobDescription:"TETHER routes tasks. Never show agent names."};
+module.exports={id:"TETHER",fullName:"Tracking Every Thread to Harmonize and Exchange Records",department:"MEMORY",jobDescription:"Ensures continuity between isolated AI chat sessions and central ABA brain. Rallies isolated sessions. Captures offline knowledge. Creates handoff prompts for new sessions. Never show agent names to users."};
