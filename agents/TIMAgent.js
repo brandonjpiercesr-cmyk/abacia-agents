@@ -1,1 +1,1 @@
-module.exports={id:"TIM",fullName:"Temporary Interim Model",department:"CORE",jobDescription:"TIM handles interim tasks. Never show agent names."};
+module.exports={id:"TIM",fullName:"Temporary Interim Model",department:"MEETINGS",jobDescription:"Temporary model for handling interim requests when primary systems unavailable. Never show agent names to users."};
