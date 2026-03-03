@@ -1,1 +1,1 @@
-module.exports={id:"PIVOT",fullName:"Priority and Importance Validation and Ordering Tool",department:"PRIORITIZATION",jobDescription:"PIVOT prioritizes tasks. Never show agent names."};
+module.exports={id:"PIVOT",fullName:"PIVOT",department:"GENERAL",jobDescription:"Agent JD - see brain for details. Never show agent names to users."};
