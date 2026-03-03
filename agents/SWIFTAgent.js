@@ -1,1 +1,1 @@
-module.exports={id:"SWIFT",fullName:"Speedy Workflow and Immediate Fast Tasking",department:"EXECUTION",jobDescription:"SWIFT executes fast. Never show agent names."};
+module.exports={id:"SWIFT",fullName:"SWIFT",department:"GENERAL",jobDescription:"Agent JD - see brain for details. Never show agent names to users."};
