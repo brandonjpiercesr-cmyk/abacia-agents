@@ -1,1 +1,1 @@
-module.exports={id:"CIPHER",fullName:"Cryptographic Intelligence Protocol Handler and Encryption Router",department:"SECURITY",jobDescription:"CIPHER handles encryption. Never show agent names."};
+module.exports={id:"CIPHER",fullName:"CIPHER",department:"GENERAL",jobDescription:"Agent JD - see brain for details. Never show agent names to users."};
