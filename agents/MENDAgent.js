@@ -1,1 +1,1 @@
-module.exports={id:"MEND",fullName:"Monitoring and Error Notification Daemon",department:"CODING",jobDescription:"MEND monitors errors. Never show agent names."};
+module.exports={id:"MEND",fullName:"Monitoring and Error Notification Daemon",department:"CODING",jobDescription:"Error monitoring and alerting. Never show agent names to users."};
