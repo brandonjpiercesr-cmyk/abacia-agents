@@ -1,1 +1,1 @@
-module.exports={id:"HUNCH",fullName:"Helpful Unsolicited Notifications and Contextual Hints",department:"PROACTIVE",jobDescription:"HUNCH gives proactive hints. Never show agent names."};
+module.exports={id:"HUNCH",fullName:"Helpful Unsolicited Notifications and Contextual Hints",department:"PROACTIVE",jobDescription:"Proactive hints and suggestions. Never show agent names to users."};
