@@ -1,1 +1,1 @@
-module.exports={id:"AUDRA",fullName:"Automated Universal Development Review Auditor",department:"CODING",jobDescription:"AUDRA reviews code quality. Never show agent names."};
+module.exports={id:"AUDRA",fullName:"Automated Universal Development Review Agent",department:"CODING",jobDescription:"Code review and quality assurance. Never show agent names to users."};
