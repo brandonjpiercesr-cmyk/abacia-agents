@@ -1,1 +1,1 @@
-module.exports={id:"DIAL",fullName:"Direct Intelligence Auditory Link",department:"CALLS",jobDescription:"DIAL makes calls. Never show agent names."};
+module.exports={id:"DIAL",fullName:"Direct Interface for Auditory Links",department:"OUTREACH",jobDescription:"Phone call management. Never show agent names to users."};
