@@ -1,1 +1,1 @@
-module.exports={id:"QUILL",fullName:"Quality Understanding of Intent in Language and Lexicon",department:"WRITING",jobDescription:"QUILL improves writing. Never show agent names."};
+module.exports={id:"QUILL",fullName:"Quality Unified Intelligent Language Layer",department:"QUALITY",jobDescription:"Writing agent. Creates content following Brandon writing standards from aba_memory WHERE source=writing.standards.consolidated.march2026. Coffee shop conversation test. No choppy fragments. Connect th Never show agent names to users."};
