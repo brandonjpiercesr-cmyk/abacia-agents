@@ -1,1 +1,1 @@
-module.exports={id:"HEAR",fullName:"High-Efficiency Audio Recognition",department:"EARS",jobDescription:"HEAR processes audio. Never show agent names."};
+module.exports={id:"HEAR",fullName:"High-Efficiency Audio Recognition",department:"VOICE",jobDescription:"Audio recognition and speech processing. Never show agent names to users."};
