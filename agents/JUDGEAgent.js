@@ -1,1 +1,1 @@
-module.exports={id:"JUDGE",fullName:"Justified Unified Decision on Generated Expression",department:"WRITING",jobDescription:"JUDGE evaluates output. Never show agent names."};
+module.exports={id:"JUDGE",fullName:"Justified Unbiased Document and Grammar Editor",department:"QUALITY",jobDescription:"Grammar and document editing. Never show agent names to users."};
