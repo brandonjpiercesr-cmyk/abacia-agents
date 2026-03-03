@@ -1,1 +1,1 @@
-module.exports={id:"SCRIBE",fullName:"Systematic Capture and Recording of Important Business Events",department:"RECORDING",jobDescription:"SCRIBE records events. Never show agent names."};
+module.exports={id:"SCRIBE",fullName:"Systematic Capture and Recording",department:"VOICE",jobDescription:"Captures and records conversations from OMI. Never show agent names to users."};
