@@ -1,1 +1,1 @@
-module.exports={id:"LEDGER",fullName:"Logical Expense and Dollar General Expenditure Recorder",department:"FINANCE",jobDescription:"LEDGER tracks expenses. Never show agent names."};
+module.exports={id:"LEDGER",fullName:"Logging and Expense Data for General Economic Review",department:"FINANCE",jobDescription:"Financial tracking and expense logging. Never show agent names to users."};
