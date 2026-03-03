@@ -1,1 +1,1 @@
-module.exports={id:"PRIME",fullName:"Priority Resource and Intelligence Management Engine",department:"EXECUTIVE",jobDescription:"PRIME manages priorities. Never show agent names."};
+module.exports={id:"PRIME",fullName:"Priority Resource and Intelligence Management",department:"EXECUTIVE",jobDescription:"Priority and resource management. Never show agent names to users."};
