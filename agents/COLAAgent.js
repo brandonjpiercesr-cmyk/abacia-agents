@@ -1,1 +1,1 @@
-module.exports={id:"COLA",fullName:"Context Ordering and Logical Arrangement",department:"INFRASTRUCTURE",jobDescription:"COLA orders context. Never show agent names."};
+module.exports={id:"COLA",fullName:"COLA",department:"GENERAL",jobDescription:"Agent JD - see brain for details. Never show agent names to users."};
