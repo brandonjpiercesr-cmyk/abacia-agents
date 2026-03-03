@@ -1,1 +1,1 @@
-module.exports={id:"CARA",fullName:"Communication And Reach Agent",department:"OUTREACH",jobDescription:"CARA handles outreach. Never show agent names."};
+module.exports={id:"CARA",fullName:"Communication and Automated Response Agent",department:"OUTREACH",jobDescription:"Outreach planning and communication automation. Never show agent names to users."};
