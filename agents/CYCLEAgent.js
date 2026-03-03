@@ -1,1 +1,1 @@
-module.exports={id:"CYCLE",fullName:"Continuous Yielding and Cyclical Loop Engine",department:"INFRASTRUCTURE",jobDescription:"CYCLE manages loops. Never show agent names."};
+module.exports={id:"CYCLE",fullName:"CYCLE",department:"GENERAL",jobDescription:"Agent JD - see brain for details. Never show agent names to users."};
