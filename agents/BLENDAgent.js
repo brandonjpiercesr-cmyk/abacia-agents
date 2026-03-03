@@ -1,1 +1,1 @@
-module.exports={id:"BLEND",fullName:"Balanced Life Engagement and Notification Dispatcher",department:"LIFESTYLE",jobDescription:"BLEND balances work/life notifications. Never show agent names."};
+module.exports={id:"BLEND",fullName:"Balanced Life Engagement and Notification Dispatcher",department:"PROACTIVE",jobDescription:"Work-life balance notifications. Never show agent names to users."};
