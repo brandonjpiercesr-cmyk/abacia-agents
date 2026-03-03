@@ -1,1 +1,1 @@
-module.exports={id:"ECHO",fullName:"Event Capturing and History Observer",department:"LOGGING",jobDescription:"ECHO logs events. Never show agent names."};
+module.exports={id:"ECHO",fullName:"Enhanced Communication and Handoff Orchestrator",department:"VOICE",jobDescription:"Handles communication handoffs between channels. Never show agent names to users."};
