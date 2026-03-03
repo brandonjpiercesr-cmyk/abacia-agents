@@ -1,1 +1,1 @@
-module.exports={id:"SPARK",fullName:"Strategic Planning and Rapid Kickoff",department:"PLANNING",jobDescription:"SPARK kickstarts projects. Never show agent names."};
+module.exports={id:"SPARK",fullName:"SPARK",department:"GENERAL",jobDescription:"Agent JD - see brain for details. Never show agent names to users."};
