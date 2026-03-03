@@ -1,1 +1,1 @@
-module.exports={id:"REACHAGENT",fullName:"Reliable Engagement and Communication Handler Agent",department:"OUTREACH",jobDescription:"REACHAGENT handles reach. Never show agent names."};
+module.exports={id:"REACHAGENT",fullName:"REACHAGENT",department:"GENERAL",jobDescription:"Agent JD - see brain for details. Never show agent names to users."};
