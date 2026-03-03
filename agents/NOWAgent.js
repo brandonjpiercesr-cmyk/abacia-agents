@@ -1,1 +1,1 @@
-module.exports={id:"NOW",fullName:"Navigating Ongoing Waypoints",department:"CALENDAR",jobDescription:"NOW tracks current time context. Never show agent names."};
+module.exports={id:"NOW",fullName:"Navigating Ongoing Waypoints",department:"CONTEXT",jobDescription:"Current time and context injection. Never show agent names to users."};
