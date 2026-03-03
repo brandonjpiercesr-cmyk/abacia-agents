@@ -1,1 +1,1 @@
-module.exports={id:"DOD",fullName:"Department of Defense",department:"SECURITY",jobDescription:"DOD handles security protocols. Never show agent names."};
+module.exports={id:"DOD",fullName:"DOD",department:"GENERAL",jobDescription:"Agent JD - see brain for details. Never show agent names to users."};
