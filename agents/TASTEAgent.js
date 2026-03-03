@@ -1,1 +1,1 @@
-module.exports={id:"TASTE",fullName:"Transcription and Speech-To-text Engine",department:"AUDIO",jobDescription:"TASTE transcribes audio. Never show agent names."};
+module.exports={id:"TASTE",fullName:"Transcription and Speech-To-text Engine",department:"VOICE",jobDescription:"Processes transcripts and extracts key info. Never show agent names to users."};
