@@ -1,1 +1,1 @@
-module.exports={id:"MERGE",fullName:"Multi-source Evaluation and Reconciliation Gateway Engine",department:"VOICE",jobDescription:"MERGE reconciles sources. Never show agent names."};
+module.exports={id:"MERGE",fullName:"Multi-source Evaluation and Reconciliation",department:"VOICE",jobDescription:"Reconciles data from multiple sources. Never show agent names to users."};
